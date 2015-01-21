@@ -4,3 +4,5 @@ int k = 30;
 int kk = k;
 int kkk = kk;
 int kkkk = kkk;
+
+int jjjjj = j;
